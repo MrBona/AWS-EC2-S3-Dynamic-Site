@@ -1,5 +1,10 @@
 # EC2-S3-Dynamic-Site
 Hosting a Dynamic Website on EC2 using SSH with Mobaxterm
+#### STEPS
+1. Create S3 Bucket and Upload Web App Files
+2. Create IAM Role (S3 Full Access) to give the EC2 access to S3 Bucket 
+3. Connect EC2 to S3 Bucket using Mobaxterm to SSH in to EC2
+
 ![ec2s3dynamicsit_1](https://user-images.githubusercontent.com/16262170/194483299-61d5b3ab-321f-42a4-bc61-8ad8b1b9d96e.jpg)
 ![ec2s3dynamicsit_2](https://user-images.githubusercontent.com/16262170/194483305-4775fa2c-c26c-4c73-99e3-188f694b42be.jpg)
 ![ec2s3dynamicsit_3](https://user-images.githubusercontent.com/16262170/194483308-b32fdaea-3e50-4ebf-8735-c400be86b01d.jpg)
